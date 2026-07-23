@@ -1,0 +1,6 @@
+Versione 0.8
+
+- Dashboard collaudi
+- Link Jira
+- Link Confluence
+- Filtro collaudi chiusi
