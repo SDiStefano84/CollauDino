@@ -1,11 +1,9 @@
 {
-    "version": "0.7",
+    "version": "0.8",
     "download_url": "https://myoffice.accenture.com/:u:/g/personal/salvatore_di_stefano_accenture_com/IQAGfeOacO5oSYahhgsxYxpsAaLB8RLdrKHt30RK_bZpvN0?e=FP0d9f",
-    "release_date": "2026-07-23",
+    "release_date": "2026-07-27",
     "mandatory": false,
     "changes": [
-        "Dashboard collaudi",
-        "Link Jira",
-        "Link Confluence"
+        "Implementazione sezione Utilities"
     ]
 }
