@@ -2,7 +2,7 @@
     "version": "0.8",
     "download_url": "https://myoffice.accenture.com/:u:/g/personal/salvatore_di_stefano_accenture_com/IQDC6UAenRIFSZ7n33bn4UnqAfvUPAtRCmiG5qTsUaueDDc?e=UyHC6W",
     "release_date": "2026-07-27",
-    "mandatory": false,
+    "mandatory": true,
     "changes": [
         "Implementazione sezione Utilities"
     ]
